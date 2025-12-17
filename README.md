@@ -87,7 +87,7 @@ All solutions are:
   </tr>
 </table>
 
-<p><i>(More problems added regularly 🚀)</i></p>
+<p><i>(All problems are added in Repository 🚀)</i></p>
 
 <hr/>
 
